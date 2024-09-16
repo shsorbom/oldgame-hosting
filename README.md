@@ -4,4 +4,4 @@ This Reository aims to be a collection of How-to notes on hosting old GameSpy er
 Most of the games mentioned here can be purchased on Steam or GOG. 
 
 ## ParaWorld
-[How to Host a ParaWorld Seerver on Linux](https://cetteup.com/355/how-to-host-a-dedicated-paraworld-server-listed-on-openspy/) NOTE: Not tested yet.
+[How to Host a ParaWorld Seerver on Linux](https://cetteup.com/355/how-to-host-a-dedicated-paraworld-server-listed-on-openspy/) \([Page Archive](https://web.archive.org/web/20240901184154/https://cetteup.com/355/how-to-host-a-dedicated-paraworld-server-listed-on-openspy/)) NOTE: Not tested yet.
